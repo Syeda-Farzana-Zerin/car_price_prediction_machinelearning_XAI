@@ -50,15 +50,6 @@ LIME Tabular explanations to interpret individual predictions
 ├── car_price_lime.ipynb
 ├── README.md
 
-# Installation
-Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-
-Install dependencies
-pip install -r requirements.txt
-
-
 
 # How to Run
 jupyter notebook car_price_lime.ipynb
