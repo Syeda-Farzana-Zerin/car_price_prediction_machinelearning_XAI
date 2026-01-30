@@ -11,6 +11,10 @@ Exploratory Data Analysis (EDA)
 
 Data summary, distributions, correlations, outlier detection
 
+# Dataset
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data?select=CAR+DETAILS+FROM+CAR+DEKHO.csv
+Downloaded and renamed as vehicles.csv
+
 # Preprocessing
 
 Label encoding of categorical features
