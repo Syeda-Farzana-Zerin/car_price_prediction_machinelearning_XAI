@@ -52,7 +52,7 @@ LIME Tabular explanations to interpret individual predictions
 
 
 # How to Run
-jupyter notebook car_price_lime.ipynb
+jupyter notebook car_price_ML_XAI.ipynb
 
 
 # Results
